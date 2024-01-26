@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2024-01-26T11:45:42Z",
+  "id": "pengenalan-wordpress",
+  "duration": 26,
+  "title": "WordPress Untuk Pemula",
+  "authors": "Ivan K",
+  "summary": "Codelab ini dirancang untuk pemula mutlak tanpa pengalaman sebelumnya dalam pembuatan website atau WordPress.",
+  "source": "11UlKzgURLp5W0jIsPEPfeD8fB5v_WGgJI11e5brLmVU",
+  "theme": "web",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "web"
+  ],
+  "tags": [
+    "nextgen-wordpress-event",
+    "wordpress"
+  ],
+  "url": "pengenalan-wordpress"
+}
